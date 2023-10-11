@@ -1,0 +1,16 @@
+aws-cdk-lib>=2.69.0
+boto3
+constructs>=10.0.0
+pyyaml
+bandit
+coverage
+flake8
+gh2md
+mccabe
+mock
+moto[all]
+pygount
+pytest
+pytest-cov
+setuptools>=38.6.0
+-e .
