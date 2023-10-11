@@ -145,7 +145,4 @@ Sustainable Personal Accounts is provisioned and configured from a single YAML f
 
 In addition, part of the solution configuration can be delegated to CSV files. This architecture allows extended contributions to the settings of SPA
 
-## Any other question?
-
-Please check the [Frequent Asked Questions page](./FAQ.md), maybe your point has already been addressed there.
 
